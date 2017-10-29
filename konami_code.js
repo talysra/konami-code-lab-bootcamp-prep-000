@@ -5,7 +5,7 @@ function init() {
   function keyDownAlert {
     const keyboardEvent = document.
 
-    alert();
+    alert("Konami Code!");
   }
 
 }
