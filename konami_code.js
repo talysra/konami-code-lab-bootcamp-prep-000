@@ -6,6 +6,8 @@ function init() {
       keyboardEvent.addEventListener('keydown', function(e) {
         if (e.which === code) {
           alert("Konami Code!");
+      } else {
+        
       }
     }
   }
