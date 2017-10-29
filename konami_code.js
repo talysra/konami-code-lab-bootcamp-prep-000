@@ -4,7 +4,7 @@ function init() {
   // Write your JavaScript code inside the init() function
   function keyDownAlert {
     const keyboardEvent = document.get
-
+    keyboardEvent.addEventListener('', function(event))
     alert("Konami Code!");
   }
 
