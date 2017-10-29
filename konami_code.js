@@ -4,6 +4,8 @@ function init() {
   // Write your JavaScript code inside the init() function
   function keyDownAlert {
     const keyboardEvent = document.
+
+    alert();
   }
 
 }
